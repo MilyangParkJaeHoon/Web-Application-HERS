@@ -15,7 +15,7 @@ Also, You can build matching table so that other people can apply through simple
 Download whole HERS files and put into MAMP htdocs folder.
 <br>Then, you can use our service by entering those url ->
 <br>
-http://localhost:8888/Web-Application-HERS/Front_End/main/main.php
+http://localhost:8888/Web-Application-HERS/apps/main/main.php
 
 
 ## DEMO
